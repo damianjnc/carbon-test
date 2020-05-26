@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`screens > Chart Chart renders 1`] = `
+<Wrapper>
+  <Line
+    data={[MockFunction]}
+    options={
+      Object {
+        "responsive": true,
+        "title": Object {
+          "display": true,
+          "fontSize": 55,
+          "text": "Top Polluters 🌍",
+        },
+      }
+    }
+  />
+</Wrapper>
+`;
